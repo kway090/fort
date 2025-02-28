@@ -1,36 +1,36 @@
 {
-  "offsets": {
-    "uworld": "0x174A8638", //new
-    "Gameinstance": "0x208", //new
-    "LocalPlayers": "0x38", //new
-    "PlayerController": "0x30", //new
-    "LocalPawn": "0x350", //new
-    "PlayerState": "0x2C8", //new
-    "RootComponet": "0x1B0", //new
-    "GameState": "0x190", //new
-    "LastSubmitTime": "0x2E8", //new
-    "LastRenderTimeOnScreen": "0x2F0", //new
-    "PersistentLevel": "0x38", //new
-    "ActorCount": "0xA0", //new
-    "Cameramanager": "0x360", //new
-    "AActor": "0x1c8", //new??
-    "CurrentActor": "0xA80", //new
-    "Mesh": "0x328", //new
-    "Revivefromdbnotime": "0x45b0",
-    "TeamId": "0x4fb", //new
-    "ActorTeamId": "0x10B0",
-    "IsDBNO": "0x962", //new
-    "LocalActorPos": "0x128",
-    "ComponetToWorld": "0x240",
-    "BoneArray": "0x5C8", //new
-    "Velocity": "0x180", //new
-    "PawnPrivate": "0x320", //new
-    "PlayerArray": "0x2C0", //new
-    "relativelocation": "0x140", //new
-    "UCharacterMovementComponent": "0x318", //fuck you
-    "entity_actor": "0x310", //fuck you aswell
-    "bIsReloadingWeapon": "0x331",
-    "GlobalAnimRateScale": "0xa58",
-    "CurrentWeapon": "0xa80"
-  }
+    "offsets": {
+      "uworld": "0x174A8638", //new
+      "Gameinstance": "0x208", //new
+      "LocalPlayers": "0x38", //new
+      "PlayerController": "0x30", //new
+      "LocalPawn": "0x350", //new
+      "PlayerState": "0x2C8", //new
+      "RootComponet": "0x1B0", //new
+      "GameState": "0x190", //new
+      "LastSubmitTime": "0x2E8", //new
+      "LastRenderTimeOnScreen": "0x2F0", //new
+      "PersistentLevel": "0x38", //new
+      "ActorCount": "0xA0", //new
+      "Cameramanager": "0x360", //new
+      "AActor": "0x1c8", //new??
+      "CurrentActor": "0xA80", //new
+      "Mesh": "0x328", //new
+      "Revivefromdbnotime": "0x45b0",
+      "TeamId": "0x4fb", //new
+      "ActorTeamId": "0x10B0",
+      "IsDBNO": "0x962", //new
+      "LocalActorPos": "0x128",
+      "ComponetToWorld": "0x240",
+      "BoneArray": "0x5C8", //new
+      "Velocity": "0x180", //new
+      "PawnPrivate": "0x320", //new
+      "PlayerArray": "0x2C0", //new
+      "relativelocation": "0x140", //new
+      "UCharacterMovementComponent": "0x318", //fuck you
+      "entity_actor": "0x310", //fuck you aswell
+      "bIsReloadingWeapon": "0x331",
+      "GlobalAnimRateScale": "0xa58",
+      "CurrentWeapon": "0xa80"
+    }  
 }
