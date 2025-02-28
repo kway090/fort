@@ -1,5 +1,5 @@
 {
-    "offsets": {
+    "offsets":{
       "uworld": "0x174A8638", //new
       "Gameinstance": "0x208", //new
       "LocalPlayers": "0x38", //new
@@ -32,5 +32,5 @@
       "bIsReloadingWeapon": "0x331",
       "GlobalAnimRateScale": "0xa58",
       "CurrentWeapon": "0xa80"
-    }  
+    }
 }
